@@ -59021,10 +59021,10 @@ const iJ = (n, e) =>
     { id: "contact", title: "Contact" },
   ],
   AJ = [
-    { title: "Web Developer", icon: fJ },
-    { title: "React Native Developer", icon: cJ },
-    { title: "Backend Developer", icon: lJ },
-    { title: "SwiftUI Developer", icon: uJ },
+    { title: "Web App", icon: fJ },
+    { title: "Mobile App", icon: cJ },
+    { title: "Python", icon: lJ },
+    { title: "Google Cloud", icon: uJ },
   ],
   MJ = [
     { name: "HTML 5", icon: gJ },
@@ -59040,28 +59040,26 @@ const iJ = (n, e) =>
   ],
   SJ = [
     {
-      title: "Weather Web Application",
-      company_name: "ReactJS",
+      title: "AI Companion App",
+      company_name: "OpenAI",
       icon: FL,
       iconBg: "#383E56",
       date: "Sep 2022 - Sep 2022",
       points: [
-        "Developed a Open Source weather data fetching web application using ReactJS",
-        "The Application is use to fetch real time data of any city across the globe",
-        "Implemented responsive design and ensuring cross-browser compatibility.",
-        "Github: https://github.com/moeezramay/WeatherApp.",
+        "Coordinated with my team to develop a cutting edge OpenAI custom model",
+        "The Application generates a tailored fit Infographic depending on your interest",
+        "Created the figma designs and implement it in flutter as frontend",
       ],
     },
     {
-      title: "Social Media Application",
-      company_name: "ReactJS/Firebase",
+      title: "Vehicle Information Bot",
+      company_name: "Python",
       icon: DL,
       iconBg: "#E6DEDD",
       date: "Sep 2022 - Oct 2022",
       points: [
-        "Developed a Open Source social media platform for post uploading and liking posts",
-        "Was made on codesandbox.io using reactJS and Firebase with 500+ views",
-        "CodeLink: https://codesandbox.io/s/instagram-clone-cxzkz1 ",
+        "Developed a custom web scrapper that feteches from the provided sites",
+        "This bot is able to break country restrictions protocol and evade bot detection",
       ],
     },
     {
@@ -59428,7 +59426,7 @@ const NL = (n) => ({
           variants: OL("", "", 0.1, 1),
           className: "mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]",
           children:
-            "I'm a skilled software developer with experience in Javascript and SwiftUI, and expertise in frameworks like React, Node.js, and Next.js. I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!",
+            "I'm a skilled software developer with experience in Javascript and Python, and expertise in frameworks like React, Node.js, and Next.js. I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!",
         }),
         we("div", {
           className: "mt-20 flex flex-wrap gap-10",
