@@ -59044,7 +59044,6 @@ const iJ = (n, e) =>
       company_name: "OpenAI",
       icon: FL,
       iconBg: "#383E56",
-      date: "Sep 2022 - Sep 2022",
       points: [
         "Coordinated with my team to develop a cutting edge OpenAI custom model",
         "The Application generates a tailored fit Infographic depending on your interest",
@@ -59056,7 +59055,6 @@ const iJ = (n, e) =>
       company_name: "Python",
       icon: DL,
       iconBg: "#E6DEDD",
-      date: "Sep 2022 - Oct 2022",
       points: [
         "Developed a custom web scrapper that feteches from the provided sites",
         "This bot is able to break country restrictions protocol and evade bot detection",
@@ -59067,7 +59065,6 @@ const iJ = (n, e) =>
       company_name: "MERN Stack",
       icon: IL,
       iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
       points: [
         "Developed a chat application with MERN Stack and python.",
         "Collaborated with cross-functional team including other developers.",
