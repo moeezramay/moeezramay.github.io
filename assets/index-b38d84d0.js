@@ -58966,7 +58966,7 @@ const iJ = (n, e) =>
                   children: [
                     "I am a Full Stack developer,",
                     we("br", { className: "sm:block hidden" }),
-                    " building scalable solutions",
+                    " building scalable AI solutions",
                   ],
                 }),
               ],
@@ -59021,8 +59021,8 @@ const iJ = (n, e) =>
     { id: "contact", title: "Contact" },
   ],
   AJ = [
-    { title: "MERN", icon: fJ },
-    { title: "Flutter", icon: cJ },
+    { title: "Neural Networks", icon: fJ },
+    { title: "Model Training", icon: cJ },
     { title: "AI/ML", icon: lJ },
     { title: "AWS", icon: uJ },
   ],
@@ -59423,7 +59423,7 @@ const NL = (n) => ({
           variants: OL("", "", 0.1, 1),
           className: "mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]",
           children:
-            "Having years of experience of Javascript and Python in building commercially scalable both mobile and web platforms with AI integrations. I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!",
+            "Having years of experience of Javascript and Python in building commercially scalable AI products for both mobile and web platforms. I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!",
         }),
         we("div", {
           className: "mt-20 flex flex-wrap gap-10",
