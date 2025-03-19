@@ -58966,7 +58966,7 @@ const iJ = (n, e) =>
                   children: [
                     "I am a Full Stack developer,",
                     we("br", { className: "sm:block hidden" }),
-                    " building scalable architectures",
+                    " building scalable solutions",
                   ],
                 }),
               ],
@@ -59021,10 +59021,10 @@ const iJ = (n, e) =>
     { id: "contact", title: "Contact" },
   ],
   AJ = [
-    { title: "Web App", icon: fJ },
-    { title: "Mobile App", icon: cJ },
-    { title: "Python", icon: lJ },
-    { title: "Google Cloud", icon: uJ },
+    { title: "MERN", icon: fJ },
+    { title: "Flutter", icon: cJ },
+    { title: "AI/ML", icon: lJ },
+    { title: "AWS", icon: uJ },
   ],
   MJ = [
     { name: "HTML 5", icon: gJ },
@@ -59045,31 +59045,31 @@ const iJ = (n, e) =>
       icon: FL,
       iconBg: "#383E56",
       points: [
-        "Coordinated with my team to develop a cutting edge OpenAI custom model",
+        "Helped my client develop a custom AI Model to read user emotions",
         "The Application generates a tailored fit Infographic depending on your interest",
-        "Created the figma designs and implement it in flutter as frontend",
+        "Created the figma designs and implement it in flutter as frontend along with OpenAI",
       ],
     },
     {
-      title: "Vehicle Information Bot",
+      title: "Commercial Luxary Cars Scrapper",
       company_name: "Python",
       icon: DL,
       iconBg: "#E6DEDD",
       points: [
-        "Developed a custom web scrapper that feteches from the provided sites",
+        "Developed a custom web scrapper that feteches from the provided sites and multiple states",
         "This bot is able to break country restrictions protocol and evade bot detection",
+        "Along side it is to bypass any other security to get the necessary information",
       ],
     },
     {
-      title: "Chat Application",
-      company_name: "MERN Stack",
+      title: "MRI Medical Scanner",
+      company_name: "MERN/Python",
       icon: IL,
       iconBg: "#383E56",
       points: [
-        "Developed a chat application with MERN Stack and python.",
-        "Collaborated with cross-functional team including other developers.",
-        "Works in real-time, send and recieve messages in an instant.",
-        "Github: https://github.com/moeezramay/chatApp",
+        "Developed a Medical Software that helps in detecting Pneumonia",
+        "It scans images of patients lungs to detect for any signs",
+        "Checks with already present database to match any case",
       ],
     },
   ],
@@ -59100,7 +59100,7 @@ const iJ = (n, e) =>
                   "Moeez  ",
                   we("span", {
                     className: "sm:block hidden",
-                    children: " | React Developer",
+                    children: " | AI/ML Developer",
                   }),
                 ],
               }),
@@ -59423,7 +59423,7 @@ const NL = (n) => ({
           variants: OL("", "", 0.1, 1),
           className: "mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]",
           children:
-            "I'm a skilled software developer with experience in Javascript and Python, and expertise in frameworks like React, Node.js, and Next.js. I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!",
+            "Having years of experience of Javascript and Python in building commercially scalable both mobile and web platforms with AI integrations. I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!",
         }),
         we("div", {
           className: "mt-20 flex flex-wrap gap-10",
