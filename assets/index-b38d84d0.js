@@ -58966,7 +58966,7 @@ const iJ = (n, e) =>
                   children: [
                     "I am a Full Stack developer,",
                     we("br", { className: "sm:block hidden" }),
-                    " building cutting edge applications",
+                    " building scalable architectures",
                   ],
                 }),
               ],
